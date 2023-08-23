@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a bachelor of physics student at [Sharif university of technology](sharif.edu).
 I currently work on the Monte Carlo simulation of polygonal colloids under the supervision
-of prof. Mohammad Reza Ejtehadi.
+of Prof. Mohammad Reza Ejtehadi.
 
 My research interests are computer simulations of materials, quantum technology, and
 computational physics in general. I am also interested in data science and machine learning
