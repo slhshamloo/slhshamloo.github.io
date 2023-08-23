@@ -122,9 +122,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: My Devlogs # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: because journaling is fun
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -413,15 +413,18 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+  - Basics
+  - Education
+  - Publications
+  - Research
+  - Achievements
+  - Awards
+  - Certificates
+  - Projects
+  - Courses
+  - Teaching Experience
+  - Technical Skills
+  - Languages
+  - Community & Leadership
+  - Other Interests
+  - References

@@ -190,6 +190,11 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+h6.title-list {
+  font-weight: bolder;
+  color: var(--global-theme-color);
+}
+
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;
