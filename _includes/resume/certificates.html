@@ -1,5 +1,6 @@
 <div class="list-groups">
-    {% for content in data[1] %}
+    {% assign certificates = data[1] | sort: 'date' | reverse %}
+    {% for content in certificates %}
     <div class="list-group col-md-6">
       <table class="table-cv list-group-table">
         <tbody>
@@ -14,11 +15,14 @@
             {% for item in content.items %}
               {% assign i = i | plus:1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td colspan="{{ i }}" class="list-group-category">
+                <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+            </td>
           </tr>
           <tr>
             <td></td>
-            <td class="list-group-name"><b>{{ content.reference }}</b></td>
+            <td class="list-group-name"><b>{{ content.issuer }}</b></td>
+            <td class="list-group-name">{{ content.date }}</td>
           </tr>
         </tbody>
       </table>
