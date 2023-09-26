@@ -22,5 +22,5 @@ I currently work on the Monte Carlo simulation of polygonal colloids under the s
 of Prof. Mohammad Reza Ejtehadi.
 
 My research interests are simulation of materials and quantum technology. More generally,
-I am interested in computational physics and condensed matter physics.
+I am interested in condensed matter and computational physics.
 I am also interested in data science and machine learning techniques.

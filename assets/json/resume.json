@@ -72,12 +72,44 @@
   "Certificates": [],
   "Projects": [
     {
+      "title": "Ising Model, Argon MD, and Percolation Simulation",
+      "url": "https://github.com/slhshamloo/comp-phys",
+      "subtitle": "Prof. Mohammad Reza Ejtehadi",
+      "startDate": "Fall 2021",
+      "items": [
+        "Computer Simulations in Physics course assignment projects.",
+        "Notable simulation include molecular dynamics, the Ising model (Using the Metropolis Monte Carlo method), percolation (using the Hoshen-Kopelman algorithm), and diffusion-limited aggregation.",
+        "The syllabus included supervised learning, clustering methods, and parallel computing."
+      ]
+    },
+    {
+      "title": "Nonlinear market model study reproduction",
+      "url": "https://github.com/slhshamloo/chaos2023",
+      "subtitle": "Dr. Saman Moghimi Araghi",
+      "startDate": "Sprint 2023",
+      "items": [
+        "Nonlinear Dynamics and Chaos course project.",
+        "Joint work with Erfan Rahbari.",
+        "Reproduced the result of <a href=\"https://doi.org/10.1007/s11071-020-05828-8\">this paper<a/> which discusses nonlinear asset-price dynamics and stabilization policies."
+      ]
+    },
+    {
       "title": "Simulating Electrodynamic Systems using the FDTD Method",
       "url": "https://github.com/slhshamloo/maxwell-fdtd",
       "subtitle": "Supervisor: Prof. Mahmud Bahmanabadi",
       "startDate": "Spring 2021",
       "items": [
         "Electromagnetism II course project"
+      ]
+    },
+    {
+      "title": "Astronomical Image Processing",
+      "url": "https://github.com/slhshamloo/astro2023",
+      "subtitle": "Supervisor: Dr. Reza Rezaei",
+      "startDate": "Spring 2023",
+      "items": [
+        "Astronomy Lab course assignment projects.",
+        "Performed 9 amature astronomy experiments in teams of 3, involving observations and intensive image processing."
       ]
     },
     {
@@ -88,6 +120,15 @@
       "items": [
         "Particle Physics course project (joint work with Hossein Hatamnia)",
         "Used CERN tutorial data to demonstrate one of the methods."
+      ]
+    },
+    {
+      "title": "Sound Amplifier Circuit Design",
+      "url": "https://drive.google.com/drive/folders/1tsKGePSoZ8XPBbYxmrNO-YTRUZisorzM?usp=sharing",
+      "subtitle": "Dr. Seyed-Nader Seyed-Reihani",
+      "startDate": "Spring 2021",
+      "items": [
+        "Electronics I course project."
       ]
     },
     {
@@ -110,28 +151,6 @@
     }
   ],
   "Courses": [
-    {
-      "title": "Computer Simulations in Physics",
-      "url": "https://github.com/slhshamloo/comp-phys",
-      "subtitle": "Prof. Mohammad Reza Ejtehadi",
-      "startDate": "Fall 2021",
-      "items": [
-        "Grade: 20.0 / 20.0",
-        "Notable simulation include molecular dynamics, the Ising model (Using the Metropolis Monte Carlo method), percolation (using the Hoshen-Kopelman algorithm), and diffusion-limited aggregation.",
-        "The syllabus included supervised learning, clustering methods, and parallel computing."
-      ]
-    },
-    {
-      "title": "Nonlinear Dynamics and Chaos",
-      "url": "https://github.com/slhshamloo/chaos2023",
-      "subtitle": "Dr. Saman Moghimi Araghi",
-      "startDate": "Sprint 2023",
-      "items": [
-        "Grade: 19.5 / 20.0",
-        "Textbook: Nonlinear Dynamics and Chaos by Steven H. Strogatz",
-        "Reproduced the result of <a href=\"https://doi.org/10.1007/s11071-020-05828-8\">this paper<a/> for the course project (joint work with Erfan Rahbari)."
-      ]
-    },
     {
       "title": "Quantum Computation and Information I",
       "url": "https://physics.sharif.edu/~vahid/teachingQC.html",
@@ -165,27 +184,6 @@
         "The course project was developing a Yu-Gi-Oh game in teams of 3.",
         "The syllabus included object oriented programming, graphical user interface (with JavaFX), client-server and peer-to-peer (P2P) networks, version control with Git, and regex. <a href=\"https://github.com/slhshamloo/advanced-programming\">Assignments GitHub repository<a/>."
       ]
-    },
-    {
-      "title": "Electronics I",
-      "url": "https://drive.google.com/drive/folders/1tsKGePSoZ8XPBbYxmrNO-YTRUZisorzM?usp=sharing",
-      "subtitle": "Dr. Seyed-Nader Seyed-Reihani",
-      "startDate": "Spring 2021",
-      "items": [
-        "Grade: 18.5 / 20.0",
-        "Built a simple sound amplifier system for the course project.",
-        "The course project was developing a Yu-Gi-Oh game in teams of 3."
-      ]
-    },
-    {
-      "title": "Astronomy Lab",
-      "url": "https://github.com/slhshamloo/astro2023",
-      "subtitle": "Dr. Reza Rezaei",
-      "startDate": "Spring 2023",
-      "items": [
-        "Grade: 20.0 / 20.0",
-        "Performed 9 amature astronomy experiments in teams of 3, involving observations and intensive image processing."
-      ]
     }
   ],
   "Teaching Experience": [
@@ -209,7 +207,7 @@
     },
     {
       "category": "Tools and Frameworks",
-      "keywords": ["CUDA", "Machine Learning", "git", "LaTeX", "Parallel Computation"]
+      "keywords": ["CUDA", "Machine Learning", "git", "LaTeX", "Parallel Computation", "Microsoft/Libre Office"]
     },
     {
       "category": "Machine Learning",
@@ -217,7 +215,7 @@
     },
     {
       "category": "Visualization",
-      "keywords": ["Matplotlib", "Plots.jl", "Inkscape", "Adobe Photoshop"]
+      "keywords": ["Matplotlib", "Plots.jl", "Blender", "Inkscape", "Adobe Photoshop"]
     }
   ],
   "Languages": [
