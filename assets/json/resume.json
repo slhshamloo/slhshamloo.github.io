@@ -78,8 +78,7 @@
       "startDate": "Fall 2021",
       "items": [
         "Computer Simulations in Physics course assignment projects.",
-        "Notable simulation include molecular dynamics, the Ising model (Using the Metropolis Monte Carlo method), percolation (using the Hoshen-Kopelman algorithm), and diffusion-limited aggregation.",
-        "The syllabus included supervised learning, clustering methods, and parallel computing."
+        "Other notable simulation include various deposition models, dif f usion-limited aggregation and dif f erent random walks."
       ]
     },
     {
