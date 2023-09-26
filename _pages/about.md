@@ -21,6 +21,6 @@ I am a bachelor of physics student at [Sharif university of technology](sharif.e
 I currently work on the Monte Carlo simulation of polygonal colloids under the supervision
 of Prof. Mohammad Reza Ejtehadi.
 
-My research interests are computer simulations of materials, quantum technology, and
-computational physics in general. I am also interested in data science and machine learning
-techniques.
+My research interests are simulation of materials and quantum technology. More generally,
+I am interested in computational physics and condensed matter physics.
+I am also interested in data science and machine learning techniques.
