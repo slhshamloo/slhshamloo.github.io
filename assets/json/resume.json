@@ -76,7 +76,7 @@
     {
       "title": "Ising Model, Argon MD, and Percolation Simulation",
       "url": "https://github.com/slhshamloo/comp-phys",
-      "subtitle": "Prof. Mohammad Reza Ejtehadi",
+      "subtitle": "Supervisor: Prof. Mohammad Reza Ejtehadi",
       "startDate": "Fall 2021",
       "items": [
         "Computer Simulations in Physics course assignment projects.",
@@ -84,10 +84,10 @@
       ]
     },
     {
-      "title": "Nonlinear market model study reproduction",
+      "title": "Nonlinear Market Model Study Reproduction",
       "url": "https://github.com/slhshamloo/chaos2023",
-      "subtitle": "Dr. Saman Moghimi Araghi",
-      "startDate": "Sprint 2023",
+      "subtitle": "Supervisor: Dr. Saman Moghimi Araghi",
+      "startDate": "Spring 2023",
       "items": [
         "Nonlinear Dynamics and Chaos course project.",
         "Joint work with Erfan Rahbari.",
@@ -97,7 +97,7 @@
     {
       "title": "Simulating Electrodynamic Systems using the FDTD Method",
       "url": "https://github.com/slhshamloo/maxwell-fdtd",
-      "subtitle": "Prof. Mahmud Bahmanabadi",
+      "subtitle": "Supervisor: Prof. Mahmud Bahmanabadi",
       "startDate": "Spring 2021",
       "items": [
         "Electromagnetism II course project"
@@ -106,7 +106,7 @@
     {
       "title": "Astronomical Image Processing",
       "url": "https://github.com/slhshamloo/astro2023",
-      "subtitle": "Dr. Reza Rezaei",
+      "subtitle": "Supervisor: Dr. Reza Rezaei",
       "startDate": "Spring 2023",
       "items": [
         "Astronomy Lab course assignment projects.",
@@ -116,7 +116,7 @@
     {
       "title": "Measurement of Short Particle Lifetimes in Particle Physics",
       "url": "https://drive.google.com/drive/folders/1x9LwH5qoK7aciIxU0tSLdy3QlUbnMVdV?usp=sharing",
-      "subtitle": "Dr. Amin Faraji Astaneh",
+      "subtitle": "Supervisor: Dr. Amin Faraji Astaneh",
       "startDate": "Spring 2022",
       "items": [
         "Particle Physics course project (joint work with Hossein Hatamnia)",
@@ -126,7 +126,7 @@
     {
       "title": "Sound Amplifier Circuit Design",
       "url": "https://drive.google.com/drive/folders/1tsKGePSoZ8XPBbYxmrNO-YTRUZisorzM?usp=sharing",
-      "subtitle": "Dr. Seyed-Nader Seyed-Reihani",
+      "subtitle": "Supervisor: Dr. Seyed-Nader Seyed-Reihani",
       "startDate": "Spring 2021",
       "items": [
         "Electronics I course project."
@@ -135,7 +135,7 @@
     {
       "title": "Trajectory of Supersonic Projectile with Variable Air Resistance",
       "url": "https://github.com/slhshamloo/supersonic",
-      "subtitle": "Prof. Sohrab Rahvar",
+      "subtitle": "Supervisor: Prof. Sohrab Rahvar",
       "startDate": "Fall 2020",
       "items": [
         "Analytical Mechanics I course project"
@@ -144,7 +144,7 @@
     {
       "title": "Simulating Wheel-Pendulum System with Lagrangian Mechanics",
       "url": "https://github.com/slhshamloo/wheel-pendulum",
-      "subtitle": "Prof. Sohrab Rahvar",
+      "subtitle": "Supervisor: Prof. Sohrab Rahvar",
       "startDate": "Winter 2021",
       "items": [
         "Analytical Mechanics II course project"
