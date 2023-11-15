@@ -10,7 +10,8 @@
       "endDate": "Present",
       "items": [
         "GPA: 18.75/20.0",
-        "Ranked 5th out of 55 in class."
+        "Ranked 5th out of 55 in class.",
+        "GRE Subject Physics: 980/990 (96th Percentile)"
       ]
     }
   ],
@@ -262,11 +263,15 @@
   "References": [
     {
       "name": "Prof. Mohammad Reza Ejtehadi",
-      "links": ["<a href = \"mailto:ejtehadi@sharif.edu\">ejtehadi@sharif.edu</a>", "<a href = \"mailto:reza.ejtehadi@gmail.com\">reza.ejtehadi@gmail.com</a>"]
+      "links": ["<a href = \"mailto:ejtehadi@sharif.edu\">ejtehadi@sharif.edu</a>", "<a href = \"mailto:reza.ejtehadi@gmail.com\">reza.ejtehadi@gmail.com</a>", "<a href = \"http://softmatter.physics.sharif.edu/\">softmatter.physics.sharif.edu</a>"]
     },
     {
       "name": "Dr. Naimeh Naseri",
-      "links": ["<a href = \"mailto:naseri@sharif.edu\">naseri@sharif.edu</a>", "<a href = \"mailto:naseri1361@yahoo.com\">naseri1361@yahoo.com</a>"]
+      "links": ["<a href = \"mailto:naseri@sharif.edu\">naseri@sharif.edu</a>", "<a href = \"mailto:naseri1361@yahoo.com\">naseri1361@yahoo.com</a>", "<a href = \"https://physics.sharif.edu/~naseri/\">physics.sharif.edu/~naseri</a>", "<a href = \"https://research.monash.edu/en/persons/naimeh-naseritaheri\">research.monash.edu/en/persons/naimeh-naseritaheri</a>"]
+    },
+    {
+      "name": "Dr. Saman Moghimi Araghi",
+      "links": ["<a href = \"mailto:samanimi@sharif.edu\">samanimi@sharif.edu</a>", "<a href = \"mailto:samanimi@gmail.com\">samanimi@gmail.com</a>", "<a href = \"https://physics.sharif.edu/~samanimi/\">physics.sharif.edu/~samanimi</a>"]
     }
   ]
 }
