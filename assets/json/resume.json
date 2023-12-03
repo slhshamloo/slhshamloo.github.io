@@ -25,8 +25,8 @@
       "endDate": "Present",
       "items": [
         "Developed a new Julia package to allow for arbitrary geometries (HOOMD-blue, which is the package used for this kind of simulation, has limited ability for adding constraints)",
-        "Introduced novel optimizations.",
-        "Utilizing CUDA GPU acceleration."
+        "Introduced novel optimizations, including a new overlap detection method and parallelization of constraint enforcement.",
+        "Utilizing CUDA GPU acceleration in a Monte Carlo parallelization scheme."
       ]
     },
     {
@@ -36,8 +36,8 @@
       "startDate": "Summer 2022",
       "endDate": "Fall 2022",
       "items": [
-        "Worked in the lab to gather testing data for the evaluation of a machine learning model.",
-        "Created the samples using bath sonication.",
+        "Gathered testing data on the yield of Molybdenum disulfide nanosheets after sonication in several solvents (e.g. NMP) for the evaluation of a machine learning model.",
+        "Created the samples using bath sonication with various parameters (power and time), then collected the solution after centrifugation at different speeds.",
         "Analyzed samples with UV-Vis tests."
       ]
     },
@@ -48,22 +48,17 @@
       "startDate": "Winter 2022",
       "endDate": "Fall 2022",
       "items": [
-        "Trained under the supervision of a master's student.",
         "Helped with micro-supercapacitor projects."
       ]
     }
   ],
   "Achievements": [
     {
-      "title" : "Accepted into Iran's National Elites Foundation (Bonyad-e Melli-e Nokhbegan)",
-      "date" : "Fall 2022"
-    },
-    {
       "title" : "Ranked 8th in the Iranian Universities Physics Olympiad",
       "date" : "Summer 2022"
     },
     {
-      "title" : "Ranked in the top 0.2% (284th out of 150666) in the mathematics and physics Konkour (Iranian universities entrance exam) and 1st (out of 139131) in the foreign language Konkour",
+      "title" : "Ranked in the top 0.2% (284th out of 150666) in the national universities entrance exam for physics and mathematics and 1st (out of 139131) for foreign language",
       "date" : "Summer 2019"
     },
     {
@@ -81,7 +76,7 @@
       "startDate": "Fall 2021",
       "items": [
         "Computer Simulations in Physics course assignment projects (with 20.0/20.0 final grade).",
-        "Other notable simulation include various deposition models, dif f usion-limited aggregation and dif f erent random walks."
+        "Other notable simulation include various deposition models, diffusion-limited aggregation and different random walks."
       ]
     },
     {
@@ -90,8 +85,7 @@
       "subtitle": "Supervisor: Dr. Saman Moghimi Araghi",
       "startDate": "Spring 2023",
       "items": [
-        "Nonlinear Dynamics and Chaos course project.",
-        "Joint work with Erfan Rahbari.",
+        "Nonlinear Dynamics and Chaos course project (Joint work with Erfan Rahbari).",
         "Reproduced the result of <a href=\"https://doi.org/10.1007/s11071-020-05828-8\">this paper<a/> which discusses nonlinear asset-price dynamics and stabilization policies."
       ]
     },
@@ -121,7 +115,7 @@
       "startDate": "Spring 2022",
       "items": [
         "Particle Physics course project (joint work with Hossein Hatamnia)",
-        "Used CERN tutorial data to demonstrate one of the methods."
+        "Used CERN tutorial data to demonstrate one of the methods (standard deviation in the uncertainty principal)."
       ]
     },
     {
@@ -130,7 +124,8 @@
       "subtitle": "Supervisor: Dr. Seyed-Nader Seyed-Reihani",
       "startDate": "Spring 2021",
       "items": [
-        "Electronics I course project."
+        "Electronics I course project.",
+        "Built a simple sound amplifier circuit, including controls for gain, volume, and bass."
       ]
     },
     {
@@ -139,7 +134,8 @@
       "subtitle": "Supervisor: Prof. Sohrab Rahvar",
       "startDate": "Fall 2020",
       "items": [
-        "Analytical Mechanics I course project"
+        "Analytical Mechanics I course project.",
+        "Extracted the variable air resistance coefficient from a figure in the reference textbook (Marion) and used RK4 integration to solve equations numerically."
       ]
     },
     {
@@ -148,11 +144,12 @@
       "subtitle": "Supervisor: Prof. Sohrab Rahvar",
       "startDate": "Winter 2021",
       "items": [
-        "Analytical Mechanics II course project"
+        "Analytical Mechanics II course project.",
+        "Derived the set of nonlinear differential equations describing the motion of the system, which exhibited chaotic behavior, and solved them using stiff numerical methods to minimize numerical instability."
       ]
     }
   ],
-  "Courses": [
+  "Notable Courses": [
     {
       "title": "Quantum Computation and Information I",
       "url": "https://physics.sharif.edu/~vahid/teachingQC.html",
@@ -241,14 +238,6 @@
       "items": [
         "Translated parts of The Feynman Lectures on Physics (license for free electronic publication secured from The eFLP Group)"
       ]
-    },
-    {
-      "title": "Member of the Board of Directors",
-      "url": "https://zharfa90.ir",
-      "subtitle": "Zharfa Scientific Community",
-      "institution": "Physics Department of Sharif University of Technology",
-      "startDate": "2021-09-01",
-      "endDate": "2022-09-01"
     },
     {
       "title": "Member of the Lambda Study Circle",
