@@ -95,7 +95,8 @@
       "subtitle": "Supervisor: Prof. Mahmud Bahmanabadi",
       "startDate": "Spring 2021",
       "items": [
-        "Electromagnetism II course project"
+        "Electromagnetism II course project.",
+        "Implemented a numerical solver for the Maxwell equations using the FDTD method and simulated a few simple systems, like a parabolic mirror reflecting waves from a on a material with a different index of refraction."
       ]
     },
     {
