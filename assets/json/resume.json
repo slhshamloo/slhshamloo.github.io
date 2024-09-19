@@ -2,14 +2,25 @@
   "Basics": {},
   "Education": [
     {
+      "url": "https://www.ip-paris.fr/",
+      "title": "MSc",
+      "subtitle": "Physics",
+      "institution": "Institut Polytechnique de Paris, Palaiseau, France",
+      "startDate": "Spetember 2024",
+      "endDate": "Present",
+      "items": [
+        "PhD track program"
+      ]
+    },
+    {
       "url": "https://www.sharif.edu/",
       "title": "BSc",
       "subtitle": "Physics",
       "institution": "Sharif University of Technology, Tehran, Iran",
-      "startDate": "Fall 2019",
-      "endDate": "Present",
+      "startDate": "September 2019",
+      "endDate": "February 2024",
       "items": [
-        "GPA: 18.75/20.0",
+        "GPA: 18.81/20.0",
         "Ranked 5th out of 55 in class.",
         "GRE Subject Physics: 980/990 (96th Percentile)"
       ]
@@ -18,6 +29,7 @@
   "Publications": [],
   "Research": [
     {
+      "url": "https://github.com/slhshamloo/colloid",
       "title": "Monte Carlo Simulation of Polygonal Colloids in Various Geometries",
       "subtitle": "Supervisor: Prof. Mohammad Reza Ejtehadi",
       "institution": "Sharif University of Technology",
@@ -246,7 +258,7 @@
       "subtitle": "Quanta Study Circles",
       "institution": "Physics Department of Sharif University of Technology",
       "startDate": "2020-02-01",
-      "endDate": "Present"
+      "endDate": "2024-08-31"
     }
   ],
   "Interests": [],
